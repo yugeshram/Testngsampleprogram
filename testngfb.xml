@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+  <parameter name="textuser" value="1234"></parameter>
+  <parameter name="textpass" value="yugesh"></parameter>
+  <classes>
+  <class name="com.enable.Fbparameter"></class>
+  </classes>
+  
+  
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
